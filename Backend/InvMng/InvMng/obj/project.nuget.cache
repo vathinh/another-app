@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9LtckHzkCv4ncywI2AghaHSXRLqiWWpVSu7KeZrVwM3iRYF5mVxUjqc5OKw+TwQtjHLPF3VoHpzuCwKG6Yxjw==",
+  "success": true,
+  "projectFilePath": "/Users/thinh/Downloads/interview_demotest/Backend/InvMng/InvMng/InvMng.csproj",
+  "expectedPackageFiles": [
+    "/Users/thinh/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.10/microsoft.aspnetcore.jsonpatch.3.1.10.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.10/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.10.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/npgsql/7.0.2/npgsql.7.0.2.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/thinh/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
